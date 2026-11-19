@@ -1,0 +1,15 @@
+{
+  "currentRelease": "2.0.5",
+  "releases": [
+    {
+      "version": "2.0.5",
+      "updateTo": {
+        "version": "2.0.5",
+        "pub_date": "2026-11-18T17:34:58+01:00",
+        "notes": "Beschreibung einer Position über mehrere Zeilen: Das Feld wächst mit dem Text, die Zeilen stehen so auf der Rechnung\nNeue Einheiten: Übernachtung und Hektar\nPrivatkunden ohne E-Mail-Adresse: Die Rechnung lässt sich jetzt festschreiben\nEinkäufe aus der EU und Leistungen aus dem Ausland über „Beleg erfassen“: Die Voranmeldung rechnet jetzt mit dem Rechnungsbetrag; schon erfasste Belege werden beim Start berichtigt\nPrivatanteil: Beim Ändern des Prozentsatzes bleibt die Aufteilung zwischen den Kategorien erhalten, 100 % privat wird gespeichert\nAnzahlung und Schlussrechnung: Der Umsatz zählt in Übersicht und Auswertungen nicht mehr doppelt; Storno und Skonto einer Anzahlung rechnen richtig\nAuswertung „Ergebnis je Monat“ stimmt jetzt immer mit der EÜR überein\nEingelesene E-Rechnungen in fremder Währung: Mit dem Kurs am Beleg zählen sie in Euro\nSicherung: Zurückspielen geht immer, auch ohne Lizenz; fehlt eine Belegdatei, fragt das Programm, statt alles abzulehnen; beschädigte Dateien werden beim nächsten Sichern erneuert\nRechnungsfenster: „Verwerfen“ verwirft wirklich, ein Doppelklick schreibt nicht zweimal fest, beim Beenden geht nichts Getipptes verloren, und die Spalte „Netto“ ist auch im kleinen Fenster zu sehen\nDatenexport: Gleichnamige Belege überschreiben sich nicht mehr\nEinfacher: Einrichtung führt zum fehlenden Feld, „bezahlt“ direkt in der Belegliste, lesbares Änderungsprotokoll; in der Seitenleiste heißt es jetzt „Kategorien“ und „Weitere Firmen“",
+        "name": "2.0.5",
+        "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.5/Rechnung-OS-Pro-2.0.5-mac.zip"
+      }
+    }
+  ]
+}
