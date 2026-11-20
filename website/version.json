@@ -1,33 +1,23 @@
 {
   "produkt": "Rechnung OS Pro",
-  "version": "2.0.5",
-  "datum": "2026-11-18",
+  "version": "2.0.6",
+  "datum": "2026-11-20",
   "download": "https://os-factory.de/e-rechnung-os/download/",
   "neu": [
-    "Beschreibung einer Position über mehrere Zeilen: Das Feld wächst mit dem Text, die Zeilen stehen so auf der Rechnung",
-    "Neue Einheiten: Übernachtung und Hektar",
-    "Privatkunden ohne E-Mail-Adresse: Die Rechnung lässt sich jetzt festschreiben",
-    "Einkäufe aus der EU und Leistungen aus dem Ausland über „Beleg erfassen“: Die Voranmeldung rechnet jetzt mit dem Rechnungsbetrag; schon erfasste Belege werden beim Start berichtigt",
-    "Privatanteil: Beim Ändern des Prozentsatzes bleibt die Aufteilung zwischen den Kategorien erhalten, 100 % privat wird gespeichert",
-    "Anzahlung und Schlussrechnung: Der Umsatz zählt in Übersicht und Auswertungen nicht mehr doppelt; Storno und Skonto einer Anzahlung rechnen richtig",
-    "Auswertung „Ergebnis je Monat“ stimmt jetzt immer mit der EÜR überein",
-    "Eingelesene E-Rechnungen in fremder Währung: Mit dem Kurs am Beleg zählen sie in Euro",
-    "Sicherung: Zurückspielen geht immer, auch ohne Lizenz; fehlt eine Belegdatei, fragt das Programm, statt alles abzulehnen; beschädigte Dateien werden beim nächsten Sichern erneuert",
-    "Rechnungsfenster: „Verwerfen“ verwirft wirklich, ein Doppelklick schreibt nicht zweimal fest, beim Beenden geht nichts Getipptes verloren, und die Spalte „Netto“ ist auch im kleinen Fenster zu sehen",
-    "Datenexport: Gleichnamige Belege überschreiben sich nicht mehr",
-    "Einfacher: Einrichtung führt zum fehlenden Feld, „bezahlt“ direkt in der Belegliste, lesbares Änderungsprotokoll; in der Seitenleiste heißt es jetzt „Kategorien“ und „Weitere Firmen“"
+    "Abrechnungsgutschrift: Gutschriften im Gutschriftverfahren für Lieferanten (zum Beispiel Metzgerei und Landwirt, Verlag und Autor) — als E-Rechnung, mit der Steuernummer des Lieferanten, für dich eine Ausgabe mit Vorsteuer",
+    "Eigene Steuersätze: Bei jeder Position „Anderer Steuersatz …“ wählen und zum Beispiel 9 % oder 5,5 % eintragen"
   ],
   "pakete": {
     "mac": {
-      "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.5/Rechnung-OS-Pro-2.0.5-mac.zip",
-      "sha256": "cb99452c370af52d6f854284092163d225a148c2f64d0a3226d5a472f8389cc6",
-      "bytes": 290324906,
+      "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.6/Rechnung-OS-Pro-2.0.6-mac.zip",
+      "sha256": "31bb1ed1cf982288e3cce0feb325a55728973e124e4bcca36226d52084b28c5b",
+      "bytes": 290333697,
       "feed": "https://os-factory.de/e-rechnung-os/update-mac.json"
     },
     "windows": {
-      "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.5/Rechnung-OS-Pro-2.0.5-Setup.exe",
-      "sha256": "ca7d67cde69e36e94c2b84aae75a75c2dcb90fa7d2e32da91d9b1e7347dcab1d",
-      "bytes": 278980530
+      "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.6/Rechnung-OS-Pro-2.0.6-Setup.exe",
+      "sha256": "79729b2d2c55bf7de56da9f74cbbb451afcec9d2191b6575ee69d6f4cb2fc70f",
+      "bytes": 279007347
     }
   }
 }
