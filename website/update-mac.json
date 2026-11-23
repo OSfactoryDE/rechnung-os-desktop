@@ -1,14 +1,14 @@
 {
-  "currentRelease": "2.0.6",
+  "currentRelease": "2.0.7",
   "releases": [
     {
-      "version": "2.0.6",
+      "version": "2.0.7",
       "updateTo": {
-        "version": "2.0.6",
-        "pub_date": "2026-11-20T10:57:34+01:00",
-        "notes": "Abrechnungsgutschrift: Gutschriften im Gutschriftverfahren für Lieferanten (zum Beispiel Metzgerei und Landwirt, Verlag und Autor) — als E-Rechnung, mit der Steuernummer des Lieferanten, für dich eine Ausgabe mit Vorsteuer\nEigene Steuersätze: Bei jeder Position „Anderer Steuersatz …“ wählen und zum Beispiel 9 % oder 5,5 % eintragen",
-        "name": "2.0.6",
-        "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.6/Rechnung-OS-Pro-2.0.6-mac.zip"
+        "version": "2.0.7",
+        "pub_date": "2026-11-23T00:22:38+01:00",
+        "notes": "Anschrift mit Abteilung: Beim Kunden „Abteilung oder Zusatz“ ausfüllen, es steht unter dem Namen; auf Wunsch der Ansprechpartner als „z. Hd. …“\nÜberschrift der Rechnung in drei Größen: groß wie bisher, mittel oder klein und ruhig (Firma › Briefpapier)\nEÜR: Zeile je Kategorie wählbar, neue Zeilen für Verpflegung und Fahrten mit dem Privatwagen; Bahnfahrkarten zählen zu den Fahrtkosten, Hotels haben die Kategorie „Übernachtungskosten“\nBelege schneller: Datum einfügen, Kategorie über die Kontonummer suchen, 0 % für Kleinunternehmer vorbelegt; Kontonummern auch beim Aufteilen\nDatumsfelder nehmen nur vierstellige Jahreszahlen; die Jahreszahl lässt sich überall normal tippen, auch bei Anlagen\nVerfahrensdokumentation: „Sonstiges“ fasst 20.000 Zeichen, die Aufbewahrung der Sicherungen und die Anlagen stehen so drin, wie du arbeitest\nNummernkreise: Ein ungültiges Format fällt schon beim Tippen auf\nUpdates: Das Programm sieht täglich nach und versucht es bei einer abgebrochenen Verbindung noch einmal\nSicherungsliste mit Rechnungen und Eingangsbelegen getrennt; Leistungsdatum entfällt, sobald ein Leistungszeitraum eingetragen ist",
+        "name": "2.0.7",
+        "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.7/Rechnung-OS-Pro-2.0.7-mac.zip"
       }
     }
   ]
