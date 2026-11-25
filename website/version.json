@@ -1,30 +1,29 @@
 {
   "produkt": "Rechnung OS Pro",
-  "version": "2.0.7",
-  "datum": "2026-11-23",
+  "version": "2.0.8",
+  "datum": "2026-11-25",
   "download": "https://os-factory.de/e-rechnung-os/download/",
   "neu": [
-    "Anschrift mit Abteilung: Beim Kunden „Abteilung oder Zusatz“ ausfüllen, es steht unter dem Namen; auf Wunsch der Ansprechpartner als „z. Hd. …“",
-    "Überschrift der Rechnung in drei Größen: groß wie bisher, mittel oder klein und ruhig (Firma › Briefpapier)",
-    "EÜR: Zeile je Kategorie wählbar, neue Zeilen für Verpflegung und Fahrten mit dem Privatwagen; Bahnfahrkarten zählen zu den Fahrtkosten, Hotels haben die Kategorie „Übernachtungskosten“",
-    "Belege schneller: Datum einfügen, Kategorie über die Kontonummer suchen, 0 % für Kleinunternehmer vorbelegt; Kontonummern auch beim Aufteilen",
-    "Datumsfelder nehmen nur vierstellige Jahreszahlen; die Jahreszahl lässt sich überall normal tippen, auch bei Anlagen",
-    "Verfahrensdokumentation: „Sonstiges“ fasst 20.000 Zeichen, die Aufbewahrung der Sicherungen und die Anlagen stehen so drin, wie du arbeitest",
-    "Nummernkreise: Ein ungültiges Format fällt schon beim Tippen auf",
-    "Updates: Das Programm sieht täglich nach und versucht es bei einer abgebrochenen Verbindung noch einmal",
-    "Sicherungsliste mit Rechnungen und Eingangsbelegen getrennt; Leistungsdatum entfällt, sobald ein Leistungszeitraum eingetragen ist"
+    "Rechnung kopieren: In einer festgeschriebenen Rechnung legt „Kopieren“ einen neuen Entwurf mit Kunde, Positionen und Texten an",
+    "Lieferung in ein anderes EU-Land: Die Lieferanschrift kommt aus dem Kunden, die Rechnung lässt sich festschreiben",
+    "Artikelnummer aus dem Katalog steht auf der Rechnung",
+    "PDF-Rechnungen von Lieferanten werden besser gelesen: Absender, Rechnungsnummer, Datum und Betrag",
+    "Zahlungsziel 0 Tage ergibt „Zahlbar sofort ohne Abzug.“; steht die Kundennummer als Käuferreferenz da, heißt die Zeile „Kundennummer“",
+    "Der Hinweis auf dem Beleg bleibt beim Speichern erhalten; die angekündigte Rechnungsnummer zeigt den Monat des Rechnungsdatums",
+    "Die Prüfung meldet einen Leistungszeitraum der Position außerhalb des Rechnungszeitraums schon vor dem Festschreiben",
+    "Umsatzsteuer-Voranmeldung: Bankeingänge, die direkt als Einnahme gebucht sind, zählen mit"
   ],
   "pakete": {
     "mac": {
-      "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.7/Rechnung-OS-Pro-2.0.7-mac.zip",
-      "sha256": "883feb37cda20de2b7735ebd1513a664e0ea2ea12cc4443e2ba61a64f183f6be",
-      "bytes": 290347131,
+      "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.8/Rechnung-OS-Pro-2.0.8-mac.zip",
+      "sha256": "68db1051a782a8e76ee7d527be2f6c1c70d0c3db6a5052b809e49801b11f4ea7",
+      "bytes": 290355089,
       "feed": "https://os-factory.de/e-rechnung-os/update-mac.json"
     },
     "windows": {
-      "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.7/Rechnung-OS-Pro-2.0.7-Setup.exe",
-      "sha256": "1886d39631288a4c2717283ad22c35025f222d082e0f829d5182bdc3cf78fec9",
-      "bytes": 279039913
+      "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.8/Rechnung-OS-Pro-2.0.8-Setup.exe",
+      "sha256": "3ce076f3bf4ede40a19251e6b5994126d9469a01c6c303db819b4f60b87341cd",
+      "bytes": 279046249
     }
   }
 }
