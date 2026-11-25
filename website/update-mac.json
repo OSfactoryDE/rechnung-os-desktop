@@ -1,14 +1,14 @@
 {
-  "currentRelease": "2.0.7",
+  "currentRelease": "2.0.8",
   "releases": [
     {
-      "version": "2.0.7",
+      "version": "2.0.8",
       "updateTo": {
-        "version": "2.0.7",
-        "pub_date": "2026-11-23T00:22:38+01:00",
-        "notes": "Anschrift mit Abteilung: Beim Kunden „Abteilung oder Zusatz“ ausfüllen, es steht unter dem Namen; auf Wunsch der Ansprechpartner als „z. Hd. …“\nÜberschrift der Rechnung in drei Größen: groß wie bisher, mittel oder klein und ruhig (Firma › Briefpapier)\nEÜR: Zeile je Kategorie wählbar, neue Zeilen für Verpflegung und Fahrten mit dem Privatwagen; Bahnfahrkarten zählen zu den Fahrtkosten, Hotels haben die Kategorie „Übernachtungskosten“\nBelege schneller: Datum einfügen, Kategorie über die Kontonummer suchen, 0 % für Kleinunternehmer vorbelegt; Kontonummern auch beim Aufteilen\nDatumsfelder nehmen nur vierstellige Jahreszahlen; die Jahreszahl lässt sich überall normal tippen, auch bei Anlagen\nVerfahrensdokumentation: „Sonstiges“ fasst 20.000 Zeichen, die Aufbewahrung der Sicherungen und die Anlagen stehen so drin, wie du arbeitest\nNummernkreise: Ein ungültiges Format fällt schon beim Tippen auf\nUpdates: Das Programm sieht täglich nach und versucht es bei einer abgebrochenen Verbindung noch einmal\nSicherungsliste mit Rechnungen und Eingangsbelegen getrennt; Leistungsdatum entfällt, sobald ein Leistungszeitraum eingetragen ist",
-        "name": "2.0.7",
-        "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.7/Rechnung-OS-Pro-2.0.7-mac.zip"
+        "version": "2.0.8",
+        "pub_date": "2026-11-25T12:50:28+01:00",
+        "notes": "Rechnung kopieren: In einer festgeschriebenen Rechnung legt „Kopieren“ einen neuen Entwurf mit Kunde, Positionen und Texten an\nLieferung in ein anderes EU-Land: Die Lieferanschrift kommt aus dem Kunden, die Rechnung lässt sich festschreiben\nArtikelnummer aus dem Katalog steht auf der Rechnung\nPDF-Rechnungen von Lieferanten werden besser gelesen: Absender, Rechnungsnummer, Datum und Betrag\nZahlungsziel 0 Tage ergibt „Zahlbar sofort ohne Abzug.“; steht die Kundennummer als Käuferreferenz da, heißt die Zeile „Kundennummer“\nDer Hinweis auf dem Beleg bleibt beim Speichern erhalten; die angekündigte Rechnungsnummer zeigt den Monat des Rechnungsdatums\nDie Prüfung meldet einen Leistungszeitraum der Position außerhalb des Rechnungszeitraums schon vor dem Festschreiben\nUmsatzsteuer-Voranmeldung: Bankeingänge, die direkt als Einnahme gebucht sind, zählen mit",
+        "name": "2.0.8",
+        "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.8/Rechnung-OS-Pro-2.0.8-mac.zip"
       }
     }
   ]
