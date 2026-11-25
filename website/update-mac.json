@@ -1,14 +1,14 @@
 {
-  "currentRelease": "2.0.8",
+  "currentRelease": "2.0.9",
   "releases": [
     {
-      "version": "2.0.8",
+      "version": "2.0.9",
       "updateTo": {
-        "version": "2.0.8",
-        "pub_date": "2026-11-25T12:50:28+01:00",
-        "notes": "Rechnung kopieren: In einer festgeschriebenen Rechnung legt „Kopieren“ einen neuen Entwurf mit Kunde, Positionen und Texten an\nLieferung in ein anderes EU-Land: Die Lieferanschrift kommt aus dem Kunden, die Rechnung lässt sich festschreiben\nArtikelnummer aus dem Katalog steht auf der Rechnung\nPDF-Rechnungen von Lieferanten werden besser gelesen: Absender, Rechnungsnummer, Datum und Betrag\nZahlungsziel 0 Tage ergibt „Zahlbar sofort ohne Abzug.“; steht die Kundennummer als Käuferreferenz da, heißt die Zeile „Kundennummer“\nDer Hinweis auf dem Beleg bleibt beim Speichern erhalten; die angekündigte Rechnungsnummer zeigt den Monat des Rechnungsdatums\nDie Prüfung meldet einen Leistungszeitraum der Position außerhalb des Rechnungszeitraums schon vor dem Festschreiben\nUmsatzsteuer-Voranmeldung: Bankeingänge, die direkt als Einnahme gebucht sind, zählen mit",
-        "name": "2.0.8",
-        "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.8/Rechnung-OS-Pro-2.0.8-mac.zip"
+        "version": "2.0.9",
+        "pub_date": "2026-11-25T18:49:01+01:00",
+        "notes": "Absenderzeile abschaltbar: Die kleine Zeile über der Anschrift lässt sich unter Firma › Briefpapier ausschalten, wenn Belege nur per Mail rausgehen\nMac: Aktualisieren klappt jetzt auch, wenn das Programm zu früh wieder geöffnet wird; ein nicht fertiges Update lässt sich mit einem Klick zu Ende bringen\nMac: „Selbst herunterladen“ lädt die neue Version direkt in der App, ohne Umweg über den Browser\nRechnung kopieren: In einer festgeschriebenen Rechnung legt „Kopieren“ einen neuen Entwurf mit Kunde, Positionen und Texten an\nLieferung in ein anderes EU-Land: Die Lieferanschrift kommt aus dem Kunden, die Rechnung lässt sich festschreiben\nArtikelnummer aus dem Katalog steht auf der Rechnung\nPDF-Rechnungen von Lieferanten werden besser gelesen: Absender, Rechnungsnummer, Datum und Betrag\nZahlungsziel 0 Tage ergibt „Zahlbar sofort ohne Abzug.“; steht die Kundennummer als Käuferreferenz da, heißt die Zeile „Kundennummer“\nUmsatzsteuer-Voranmeldung: Bankeingänge, die direkt als Einnahme gebucht sind, zählen mit",
+        "name": "2.0.9",
+        "url": "https://github.com/OSfactoryDE/rechnung-os-desktop/releases/download/v2.0.9/Rechnung-OS-Pro-2.0.9-mac.zip"
       }
     }
   ]
